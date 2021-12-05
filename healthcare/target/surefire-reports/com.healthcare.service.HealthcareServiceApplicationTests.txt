@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.healthcare.service.HealthcareServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.173 s <<< FAILURE! - in com.healthcare.service.HealthcareServiceApplicationTests
+com.healthcare.service.HealthcareServiceApplicationTests  Time elapsed: 0.171 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
